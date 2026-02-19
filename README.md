@@ -1,2 +1,0 @@
-# CA-of-PYTHON
-Avneesh Mishra 202501100700054
